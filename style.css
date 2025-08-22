@@ -525,6 +525,24 @@ nav .container-fluid {
     cursor: pointer;
 }
 
+/* styling the terms page */
+
+.terms{
+    background-color: rgba(30, 29, 29, 0.493);
+    color: white;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.terms button{
+    text-align: center;
+    margin-bottom: 100px;
+    border: 2px solid white;
+} 
+
+.terms .butnn a{
+    color: white;
+}
 
 /* .carousel-control-next{
     color: red;
